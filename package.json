@@ -12,7 +12,7 @@
     "url": "https://github.com/mirisuzanne/mia.git"
   },
   "engines": {
-    "node": "10.16.3"
+    "node": "14.x"
   },
   "scripts": {
     "js": "rollup -c",
